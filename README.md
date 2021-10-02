@@ -8,7 +8,7 @@ Parameters used in training :
     Convolution layers = 2
     Hidden layer = 1
     Activation function = relu (for convolution and hidden layers)
-                        = softmax (for output layer)
+                        = softmax (for output layer)<br>
     Optimizer used = Adam<br>
     Loss = sparse_categorical_crossentropy<br>
     Filter size for convolution layer = 3X3<br>
