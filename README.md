@@ -9,9 +9,9 @@ Parameters used in training :
     Hidden layer = 1
     Activation function = relu (for convolution and hidden layers)
                         = softmax (for output layer)
-    Optimizer used = Adam
-    Loss = sparse_categorical_crossentropy
-    Filter size for convolution layer = 3X3
+    Optimizer used = Adam<br>
+    Loss = sparse_categorical_crossentropy<br>
+    Filter size for convolution layer = 3X3<br>
     Epochs = 10
 
 Libraries used :
